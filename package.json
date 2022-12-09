@@ -1,0 +1,22 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micheleset7/projeto-final-JogoFigurinhasDaCopa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micheleset7/projeto-final-JogoFigurinhasDaCopa/issues"
+  },
+  "homepage": "https://github.com/micheleset7/projeto-final-JogoFigurinhasDaCopa#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
