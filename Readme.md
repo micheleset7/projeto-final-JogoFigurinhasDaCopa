@@ -22,7 +22,7 @@
 
 ## Descrição do Projeto
 
-<br/> O projeto desenvolvido é jogo que simula um desafio de figurinhas da copa do mundo. Cada figurinha é um jogador que tem nome , posição, pontos e seleção. Esses são os atributos que identificará cada figurinha. Os pontos é o valor de mercado de cada jogado, onde diz o quanto ele é valioso no mundo dofutebol. Esses pontos dita o ritimo desse jogo, quanto maior for os pontos da figurinha maior a chance de ganhar na soma total da pontuação.
+<br/> O projeto desenvolvido é jogo que simula um desafio de figurinhas da copa do mundo. Cada figurinha é um jogador que tem nome , posição, pontos e seleção. Esses são os atributos que identificará cada figurinha. Os pontos é o valor de mercado de cada jogado, onde diz o quanto ele é valioso no mundo do futebol. Esses pontos dita o ritimo desse jogo, quanto maior for os pontos da figurinha maior a chance de ganhar na soma total da pontuação.
  Para iniciar o jogo é necessário ter duas pessoas cadastradas. O jogo tem três níveis, e em cada nível tem 3 rodadas para cada desafiante.
 O desafio acontece quando o primeiro desafiante escolhe uma figurinha gerada aleatoriamente, e passa a vez para o próximo jogador. As figurinhas conquistadas são armazenadas no álbum de cada um dos jogador.
 <br/>
