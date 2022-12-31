@@ -124,5 +124,5 @@ npm run test
 	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 	</a>
 	
- Email : [michelleset.pe@gmail.com]()
+ [![Gmail Badge](https://img.shields.io/badge/-michelleset.pe@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelleset.pe@gmail.com)](mailto:michelleset.pe@gmail.com)
 
